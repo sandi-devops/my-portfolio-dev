@@ -187,12 +187,13 @@ export default function SandiPortfolio() {
                 </button>
                 <div className="flex gap-4">
                 <a
-                  href="/resume-en.pdf"
+                  href="/my-portfolio-dev/resume-en.pdf"
                   download
                   className="inline-block px-8 py-4 border border-emerald-500 text-emerald-400 hover:bg-emerald-500/10 font-bold rounded-lg transition"
                 >
                   Download Resume (EN)
                 </a>
+               
 
                 <a
                   href="/resume-jp.pdf"
