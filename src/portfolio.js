@@ -421,7 +421,7 @@ export default function SandiPortfolio() {
             </div>
 
             <div className="border-t border-slate-800 pt-8 text-center text-slate-400">
-              <p>© 2025 Sandi Khaig. Full-Stack Developer & Cloud Engineer.</p>
+              <p>© 2026 Sandi Khaing. Full-Stack Developer & Cloud Engineer.</p>
             </div>
           </div>
         </section>
